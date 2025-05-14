@@ -1,0 +1,7 @@
+gradio
+transformers[torch]
+torch
+# أضف أي مكتبات أخرى يحتاجها كود app.py إذا لزم الأمر
+# مثل:
+# sentencepiece # قد تحتاجه بعض التوكنايزر
+# accelerate # قد يكون مفيداً
