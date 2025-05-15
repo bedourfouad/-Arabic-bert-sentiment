@@ -196,4 +196,5 @@ This project is deployed on **Hugging Face Spaces** using the **Gradio** library
 
 ---
 
+https://github.com/bedourfouad/Arabic-bert-sentiment/issues/1#issue-3064519000
 
